@@ -1,2 +1,2 @@
 # 👋 Hi there,  I'm Tommy Solano!   
-#### I am a Full Stack Developer
+#### I am Web Developer
